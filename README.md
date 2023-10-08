@@ -27,6 +27,10 @@ You need to use this to train a model for a book - pick differnet from shakespea
 
 All artifacts need to be provided including colab, medium article, input, output, short presentation explaining the code (10 minutes) step by step
 
+Colab1: https://colab.research.google.com/github/ChirudeepG/Transformers-and-finetuning-with-LLMs/blob/main/297_tensorflow_text_generation.ipynb
+Colab2: https://colab.research.google.com/github/ChirudeepG/Transformers-and-finetuning-with-LLMs/blob/main/Pytorch_Friends_text_generation.ipynb
+Colab3: https://colab.research.google.com/github/ChirudeepG/Transformers-and-finetuning-with-LLMs/blob/main/Text_generation_JAX.ipynb
+
  
 
 b) Implement "textbooks are all you need" case study with your own data
@@ -59,4 +63,6 @@ use smaller amount of data
  
 
 use chatgpt gpt4 help 
+
+Colab Link: https://colab.research.google.com/drive/1KJDlSLeYNmJZPZVltTS2U_3Ix8iQM5Ii?usp=sharing
 
