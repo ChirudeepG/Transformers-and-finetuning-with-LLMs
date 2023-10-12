@@ -33,6 +33,7 @@ Colab2: https://colab.research.google.com/github/ChirudeepG/Transformers-and-fin
 
 Colab3: https://colab.research.google.com/github/ChirudeepG/Transformers-and-finetuning-with-LLMs/blob/main/Text_generation_JAX.ipynb
 
+link to medium article: https://medium.com/@chirudeep.gorle/implementing-nanogpt-across-pytorch-tensorflow-and-jax-a-comprehensive-guide-with-friends-cb593fa835e4
  
 
 b) Implement "textbooks are all you need" case study with your own data
